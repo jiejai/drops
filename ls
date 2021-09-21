@@ -375,6 +375,7 @@ tz1QsWLG1H9yYiTbJ6PX8e2i3aUJGdxk1Ufp
 tz1XmqF5gnTjgE6Cxu5CzaT5H7vXiFfihe95	
 tz1hxV1cA1chV7qyRRRZKegFXELsp11Pu5AN	
 tz1MH7vTRc4yXkttnoU93CYqiZfhEzk7C17a	# lonliboy
+tz1YSyUbRRLikD2Q7gLTDdXwn3DD6QRrLQxi	# lonliboyalt
 tz1a7KfbvpDCUDsVJ4KWJpJVcKHqgywyAZ4Y	# whale 4
 tz1PRgmHUNpgJhJeDV6xNeyUtippEvsSpLeX	
 tz2VB1QqivcRRTC2pBdZgmgd1Ew3D6Ztnup9	
@@ -430,7 +431,6 @@ tz2D6aKtMiAFkrNoRV6pwankFTNpAwmhPaNz
 tz2UM1gCZE8guVdEVMQ4udd5ozPTTAw37w6t	
 tz1XVayJ9jFgG9S6fYBBQbMvYKqcAXVza4PE	# whale 3
 tz1ZR5JKcHzU8Xn5m3w3pMGHiYnHwQNPDkSm	# whale 5
-tz1YSyUbRRLikD2Q7gLTDdXwn3DD6QRrLQxi	# whale 6
 tz1NegE4WQbC2je4cNta2B6CxPLRunknVSPS	# whale8
 tz1UETEJjeDs31qdiNA8ab3tE3ctZfQ51ETR	
 tz1PfirGv1Qk9vK3eMnMkARudeRVwFx5ZZRF	
