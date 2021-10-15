@@ -1,7 +1,3 @@
-tz1SYj4S3GnWLMHL63UfGiuDj9B2wfxgkSqn
-tz1bscbQ1bPVEEwZhamwMMVHMLiHW8aEj63Q
-tz1fnfufcorvE3CL159Xffsn6fLTiC8ZBakk
-tz1bXmENMn2Uxn5hMRyp3V3qaXqS2X5B1BDS
 tz1eNbze31bCYisWbbLSc2ikj9GbmGrSYvDq
 tz1hGcj8PXkzayPTh6z5KNfyMm4rH5WBeHae
 tz1dG6QYFemDffchx1LXioUW8j3SM3KwqcTi
@@ -199,6 +195,7 @@ tz1brEHCvVWzrg4YdA4JrqoJdZnmnNh7abVT
 tz1ZrUipLNjtuRLjkVr5RCJSQ9sLWEE3NR8Z
 tz1TGFer3chbrkNKHJK1Mv4XHi3oMAJoTCxA
 tz1dgXcFWb6F4F1ohd34k62KTmAfT6W1yKNb
+tz1bXmENMn2Uxn5hMRyp3V3qaXqS2X5B1BDS
 tz1gvQUdcuGBYZpaBBfXan8wgKeXaxaUhZSA
 tz1ZBMhTa7gxSpaeXoqyc6bTCrxEHfZYSpPt
 tz1X5teVVcKMkB1YN9uVLKmLW7UcC5H2T1dB
@@ -216,6 +213,7 @@ tz1Y2K2F7V5nH2ZosJ4PEi3N8VFDF2C7HX8K
 tz1du6FbJdrSwohHW89jfaQMwxZvjYs49FwE
 tz1XzpNExBmQNBziMUSEgh3BEKMdpsqAg8Si
 tz1iv6Boc2xbjDME2UirwsRt858cAWBhJzGu
+tz1gbfBEYFnMc1iBnw4xNZA9sgHJ1xZJ4Mq9
 tz1Mb8a13CnK7kD8E5kzbZfpbfAptVThENji
 tz1fyS7MrBNTKNnL8ZBaPqMynyrABquf2VMy
 tz1UcXyKMh5CB561T7KVVW5HsSfrRGj1DQmT
@@ -353,8 +351,11 @@ tz1T4vkx4aqjbVSysTv8pSp4UPSrVCizMzc7
 tz1a5RSPoDo4CKsk1vfxgvihoBboLqyKtqi3	
 tz1KgTRWWqutpmCn3NJePZfpiCpw2QntHGFK	
 tz1Ym9Ued9v2N2wwsrtQ52HRGGn7qDmzuUZU	
-tz1WAoPTMuXwCZ4eeVXUc6Tx4gdwHUYgSnMX	
-tz1N61fivzgjn6oWY6Duuw97oy4sBCeLjJqD	
+tz1WAoPTMuXwCZ4eeVXUc6Tx4gdwHUYgSnMX	# crackmansion1
+tz1ZPaQCRvUht9PPh7D2hUiCTt5s3uTpW126	# crackmansion2
+tz1N61fivzgjn6oWY6Duuw97oy4sBCeLjJqD	# crackmansion3
+tz1VDH9gayTSHMPnToRPna51FJ4ikJbLKgDi  	# crackmansion4
+tz1h38gExKLCzwhxbefEiF5Z3bX33FLiZL55	# crackmansion5
 tz1VGZPvqytFVAoSAsM8VrUveJdL3PpVy6K9	
 tz1a5d16ugWYaPMQk4Xkv1KpRzGCuxCYohE6	
 tz1Kj4vU3mwWWG3xYFHg5b1aL2Zk3qWaRLfk	
@@ -379,11 +380,12 @@ tz1fhd4k1jSJRRcNVbkMwVzkKEhX3kzApsfk
 tz1f7f85YqCAWzEgsz9v98KaZX3x7nuJaLXY	
 tz1Zhkk98xiH8zBZVAdzYKcmJN5j5JVEtt5E	
 tz1XisBzUGgCmvC7pNS6hxvQ5hMvXUTd1p7D	
-tz1hArv1Ni4y9tMLJxE3wpqMKYGUCB2s68e2	
-tz1YF7GN6bZz6vcf69gG7r5Go1Uw6CLkwVG2	
-tz1U4GbprXQY2z61szGzdStc9qJGT3Ca1crS	
 tz1hbc1SgiRKvYx12WtVzZ7VUv3CKsn17DTw	
 tz1R592HZH4cFAYdNcVntGfXBMB7tGu9xDGN	
+tz1U4GbprXQY2z61szGzdStc9qJGT3Ca1crS	# javi59 1
+tz1hArv1Ni4y9tMLJxE3wpqMKYGUCB2s68e2	# javi59 2
+tz1YF7GN6bZz6vcf69gG7r5Go1Uw6CLkwVG2	# javi59 3
+tz2DExZBaeZhFUXahqMU59fWiwk1GrsrsWMK	# javi59 4
 tz1Tx87PZ5KUUPXs4V79LrauMh93yM1ymbvU	
 tz1MWxVymhESXBevXyjgKQRx9GjHrMHwgvNa	
 tz1hQ8BzTVwssUGQFinLQGfc7TKuMdeX6uQW	# artblokr tipper
@@ -408,7 +410,12 @@ tz1ehhHuAQXrdXukswG2PP7TnptsEfHDxbZK
 tz1hAQCVmVAosaWX5nuoYQZjNRsxCJ2asWZm	
 tz1UZkwC4q6keTMUqhEDZjpkHjTcZjXmTPmf	
 tz2QUMMVbSmiJLHAPdRCW6z1uzHHjkLQKBPE	
-tz1VDH9gayTSHMPnToRPna51FJ4ikJbLKgDi	
+tz1e4E9qh5xrKHxpUD6cQXxVf9q6TqCwmWx8 - main	# narvi1
+tz1Z7bUc3erh6PQneAa2YJfabAwnweiExUv1	# narvi2
+tz1cD87TJp9Kkg8FZ9m48YS8MSiw1F1x8pzG	# narvi3
+tz1MUEF8oEKFWAsVc1Du8wCNRWY84i2uybVZ	# narvi4
+tz1XH3WXcxoVoibLotwQaTHYnvVXAcZ5rSod	# narvi5
+tz1WbdqHuhgq3SEbwGwgpxv9934Qx2Cn4kW2	# narvi6
 tz1NGDuYTuuB1geX1K5b88cqa8JinFLdd3d5	
 tz1PevXuhbonqWgCiBrvr71X1nYTrYs7JfzB	# new whale  genart buyer
 tz1VY543f4YJvbCp2QpgvspvRtP5ucQJi4oZ	# gen works buyer
@@ -430,8 +437,8 @@ tz1argAW1QL7XRvQn853KRNGUMCkGSaQEbjR	# rlee2
 tz1YseydcorqAoU5AY4xkvNqhghWSuKMLnCc	
 tz1i9LF7KGqioctoUQvYALoB8Mov9XzRKUN9	
 tz1bT8y8xvXu8QeNn2m6FoNsWAJVVr8DVDvH	
+tz1fmn1DXFeFLQtbVgERiApJH5FD1DitCjPE	
 tz1eZz9xGcVSN5JM5fVHjR7jrQhVWn3FU72T	
-tz1dWdgsqSvWUwDmiBh2JzzwvNuUPVBtyxLu	
 tz1dWdgsqSvWUwDmiBh2JzzwvNuUPVBtyxLu	
 tz1RojNG5AgWKsRR3gvzve66tCmVfHUPkyn9	
 tz1gq2v7czvtT9VZVMMdTWMBuAGrssmYieoU	
@@ -449,6 +456,7 @@ tz1VsHt47xnob2e4A99Vx5qEeT2Rd4yUqg5Z
 tz1RjHV4d2DzyzQzvDXpAE1y7q2PEVRtSg4J	
 tz1ZHas6yUhPYDwnxCYeMiUaNfh6Cxd27i1o	
 tz1d8Fx1eLFTeRoWTjXvs5W8hUMZEcnb9Mvg	
+tz1SYj4S3GnWLMHL63UfGiuDj9B2wfxgkSqn	
 tz1hVRCzstkFHvuY1VkaA8Tt49hvSPncUuRp	# VanDough
 tz1eb7gb5Ed2U6zeo4ywV6GnGDduZXymPW7u	
 tz2D6aKtMiAFkrNoRV6pwankFTNpAwmhPaNz	
@@ -458,5 +466,3 @@ tz1ZR5JKcHzU8Xn5m3w3pMGHiYnHwQNPDkSm	# whale 5
 tz1NegE4WQbC2je4cNta2B6CxPLRunknVSPS	# whale8
 tz1UETEJjeDs31qdiNA8ab3tE3ctZfQ51ETR	
 tz1PfirGv1Qk9vK3eMnMkARudeRVwFx5ZZRF	
-
-
