@@ -437,11 +437,13 @@ tz1argAW1QL7XRvQn853KRNGUMCkGSaQEbjR	# rlee2
 tz1YseydcorqAoU5AY4xkvNqhghWSuKMLnCc	
 tz1i9LF7KGqioctoUQvYALoB8Mov9XzRKUN9	
 tz1bT8y8xvXu8QeNn2m6FoNsWAJVVr8DVDvH	
-tz1fmn1DXFeFLQtbVgERiApJH5FD1DitCjPE	
-tz1eZz9xGcVSN5JM5fVHjR7jrQhVWn3FU72T	
-tz1dWdgsqSvWUwDmiBh2JzzwvNuUPVBtyxLu	
-tz1RojNG5AgWKsRR3gvzve66tCmVfHUPkyn9	
-tz1gq2v7czvtT9VZVMMdTWMBuAGrssmYieoU	
+tz1RojNG5AgWKsRR3gvzve66tCmVfHUPkyn9	# simon colton 1
+tz1gq2v7czvtT9VZVMMdTWMBuAGrssmYieoU	# simon colton 2
+tz1dWdgsqSvWUwDmiBh2JzzwvNuUPVBtyxLu	# simon colton 3
+tz1SfaPkZuMJCqZwsyrNYa6TqojFyvCVYP4a	# simon colton 4
+tz1fmn1DXFeFLQtbVgERiApJH5FD1DitCjPE 	# simon colton 5
+tz1eZz9xGcVSN5JM5fVHjR7jrQhVWn3FU72T	# simon colton 6
+tz1h6dkqvFH8AwHaBjXZyhjZz4j1EhZzHmww 	# simon colton 7
 tz1Y9XuoJJqQgNxVVesix1RLvn2k94JxD92Q	
 tz1R4MjJ4ySaBHaXNqerDbR7hyfSo3VXZmQs	
 tz1ScXkFpRBDuveQAkxGEwLCRC8hpzmnCnvt	
