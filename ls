@@ -42,6 +42,7 @@ tz1LoS9bZpbEHRztqXTfbCvqXCKPAdGYLEUq
 tz1bEDgPHa8t9YWWSRpDtw6ZTQQHghfTaRoV
 tz1Rw2JoU2AK2TNdfhcd4h918CdTGSNh5Gnw
 tz1VCFfWEQQy4EJA5nfVdxSzYx2NdTYAR1wf
+tz1bXmENMn2Uxn5hMRyp3V3qaXqS2X5B1BDS
 tz1YSyM6SjBuHMaKZSpkFGjXRVVyh3cBbKqD
 tz1SXPV1RANpN8nfPq5DTF7yi2MM15oPBXNn
 tz2K5UyvaMuNgiy5Zy8yVspTW6oXmchGvSey
@@ -62,7 +63,9 @@ tz1XLZgzDyqgLF6UeTMBd3B3oFUyTJ1G442N
 tz1fUGZuK2qf8XYzCRZpDRXTLLb2Fe6aUyFb
 tz1RyCFKDCe9sW1U6N3P3V37Amr8KLHmchH8
 tz1WJj8vkuysLVT21V9auP8WUJuttygRNiq5
+tz2EvdFLSFN8pJLCZQEyv89ru9ZaHLc12WZ1
 tz1Za9phjQG2G3AHjfkpBrDSseLsW3YNo2fZ
+tz1dFNygzUKWfyeUsHuGcPP9fUwKozTeBRTW
 tz1gUerzFdehZbCykkKqaTcj5cCo59Ng3TMW
 tz1SSJAyTFLJqDBwJJkZRmqB3x6FMRuT5e5v
 tz1MhbALVbm8ioTxZXsQ6wrKJ5pABiAEDs8H
@@ -195,7 +198,6 @@ tz1brEHCvVWzrg4YdA4JrqoJdZnmnNh7abVT
 tz1ZrUipLNjtuRLjkVr5RCJSQ9sLWEE3NR8Z
 tz1TGFer3chbrkNKHJK1Mv4XHi3oMAJoTCxA
 tz1dgXcFWb6F4F1ohd34k62KTmAfT6W1yKNb
-tz1bXmENMn2Uxn5hMRyp3V3qaXqS2X5B1BDS
 tz1gvQUdcuGBYZpaBBfXan8wgKeXaxaUhZSA
 tz1ZBMhTa7gxSpaeXoqyc6bTCrxEHfZYSpPt
 tz1X5teVVcKMkB1YN9uVLKmLW7UcC5H2T1dB
@@ -348,6 +350,7 @@ tz1ZmRNg15UZVoM1wE89umMiE35Ff4ZAnKqw	# owlsey
 tz1aARDqJB8y6YtRUyJsugt3fenUXF27B47H	
 tz1LaqjdBZvJ2drBq8Zp9jF3HGhfqjHZm9Ny	
 tz1T4vkx4aqjbVSysTv8pSp4UPSrVCizMzc7	
+tz1NATazbFfnypvM7q32nnFP6m7aDXrtCm1g	
 tz1a5RSPoDo4CKsk1vfxgvihoBboLqyKtqi3	
 tz1KgTRWWqutpmCn3NJePZfpiCpw2QntHGFK	
 tz1Ym9Ued9v2N2wwsrtQ52HRGGn7qDmzuUZU	
@@ -437,13 +440,14 @@ tz1argAW1QL7XRvQn853KRNGUMCkGSaQEbjR	# rlee2
 tz1YseydcorqAoU5AY4xkvNqhghWSuKMLnCc	
 tz1i9LF7KGqioctoUQvYALoB8Mov9XzRKUN9	
 tz1bT8y8xvXu8QeNn2m6FoNsWAJVVr8DVDvH	
-tz1RojNG5AgWKsRR3gvzve66tCmVfHUPkyn9	# simon colton 1
-tz1gq2v7czvtT9VZVMMdTWMBuAGrssmYieoU	# simon colton 2
 tz1dWdgsqSvWUwDmiBh2JzzwvNuUPVBtyxLu	# simon colton 3
 tz1SfaPkZuMJCqZwsyrNYa6TqojFyvCVYP4a	# simon colton 4
 tz1fmn1DXFeFLQtbVgERiApJH5FD1DitCjPE 	# simon colton 5
 tz1eZz9xGcVSN5JM5fVHjR7jrQhVWn3FU72T	# simon colton 6
 tz1h6dkqvFH8AwHaBjXZyhjZz4j1EhZzHmww 	# simon colton 7
+tz1TbpNqZHiiyrip1NMPioM5vwRxoz8UXabj	# simon colton 8
+tz1RojNG5AgWKsRR3gvzve66tCmVfHUPkyn9	# simon colton 1
+tz1gq2v7czvtT9VZVMMdTWMBuAGrssmYieoU	# simon colton 2
 tz1Y9XuoJJqQgNxVVesix1RLvn2k94JxD92Q	
 tz1R4MjJ4ySaBHaXNqerDbR7hyfSo3VXZmQs	
 tz1ScXkFpRBDuveQAkxGEwLCRC8hpzmnCnvt	
