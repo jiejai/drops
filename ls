@@ -391,6 +391,9 @@ tz1U4GbprXQY2z61szGzdStc9qJGT3Ca1crS	# javi59 1
 tz1hArv1Ni4y9tMLJxE3wpqMKYGUCB2s68e2	# javi59 2
 tz1YF7GN6bZz6vcf69gG7r5Go1Uw6CLkwVG2	# javi59 3
 tz2DExZBaeZhFUXahqMU59fWiwk1GrsrsWMK	# javi59 4
+tz1Z5sdRdz7R5ycu991Me3GRT69YHyYJwhau	# javi59 5
+tz2HBKYfHUMLgTXrhmybyP5MEysx5iaifBZP	# javi59 6
+tz1Mj52EtxxiJroNBejwNPQCSLgTH2k4gZB7	# javi59 7
 tz1Tx87PZ5KUUPXs4V79LrauMh93yM1ymbvU	
 tz1MWxVymhESXBevXyjgKQRx9GjHrMHwgvNa	
 tz1hQ8BzTVwssUGQFinLQGfc7TKuMdeX6uQW	# artblokr tipper
