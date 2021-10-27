@@ -438,6 +438,7 @@ tz1iAf7EdsdW8uN7SSXybrZS9fDsqi53JGZt	# narvi7
 tz1QH9r38s6jSfeKzdhqwdz71Bg9DRe2QkB6	# narvi8
 tz1iAf7EdsdW8uN7SSXybrZS9fDsqi53JGZt	# narvi9
 tz1QH9r38s6jSfeKzdhqwdz71Bg9DRe2QkB6	# narvi10
+tz1dVz4hLxynVgLZiAyq9XQDWhX6o2oGyx78	# narvi11
 tz1NGDuYTuuB1geX1K5b88cqa8JinFLdd3d5	
 tz1PevXuhbonqWgCiBrvr71X1nYTrYs7JfzB	# new whale  genart buyer
 tz1VY543f4YJvbCp2QpgvspvRtP5ucQJi4oZ	# gen works buyer
@@ -496,7 +497,9 @@ tz1SYj4S3GnWLMHL63UfGiuDj9B2wfxgkSqn
 tz1hVRCzstkFHvuY1VkaA8Tt49hvSPncUuRp	# VanDough
 tz1eb7gb5Ed2U6zeo4ywV6GnGDduZXymPW7u	
 tz2D6aKtMiAFkrNoRV6pwankFTNpAwmhPaNz	
-tz2UM1gCZE8guVdEVMQ4udd5ozPTTAw37w6t	
+tz2UM1gCZE8guVdEVMQ4udd5ozPTTAw37w6t	# webeenft1
+tz1RPxFszyvkixh7sUN7LRV4TeWgWH6y9JpH	# webeenft2
+tz1bgGKTQyL8jaSJS9ntE8nM9QZgvgzFzXrW	# webeenft3
 tz1XVayJ9jFgG9S6fYBBQbMvYKqcAXVza4PE	# whale 3
 tz1ZR5JKcHzU8Xn5m3w3pMGHiYnHwQNPDkSm	# whale 5
 tz1NegE4WQbC2je4cNta2B6CxPLRunknVSPS	# whale8
@@ -505,3 +508,4 @@ tz1PfirGv1Qk9vK3eMnMkARudeRVwFx5ZZRF
 tz1bH1uKAvf1f2Unxi9DJn4U5UbY3GUBPLG8	# herb1
 tz1gbGtZSn31LyMDoTa9z58ov14sk9Lvd65U	# herb2
 tz1QDWUsaM5TDWTTP8G5dS8wi4sp8A4tPMSi	# herb3
+tz1YXTDPvdJH4x4sMU5FokFdg3zELcpZE8Ye	
