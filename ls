@@ -1,3 +1,4 @@
+tz1iMC6VMDw5mCAypgmbgbxp6dJDYRxrargq  # alphacentaurikid
 tz1QrXB3DLk3JAigtbcBJE8dmiifVXwiDti4
 tz1VxK2AKMJhZWNZ29xcCpC5YnmarTrZAquA
 tz1am8FL8vrgQYALcghNCwZ8dRfnp8aVKgVE
@@ -431,7 +432,7 @@ tz1ehhHuAQXrdXukswG2PP7TnptsEfHDxbZK
 tz1hAQCVmVAosaWX5nuoYQZjNRsxCJ2asWZm	
 tz1UZkwC4q6keTMUqhEDZjpkHjTcZjXmTPmf	
 tz2QUMMVbSmiJLHAPdRCW6z1uzHHjkLQKBPE	
-tz1e4E9qh5xrKHxpUD6cQXxVf9q6TqCwmWx8 - main	# narvi1
+tz1e4E9qh5xrKHxpUD6cQXxVf9q6TqCwmWx8 	# narvi1
 tz1Z7bUc3erh6PQneAa2YJfabAwnweiExUv1	# narvi2
 tz1cD87TJp9Kkg8FZ9m48YS8MSiw1F1x8pzG	# narvi3
 tz1MUEF8oEKFWAsVc1Du8wCNRWY84i2uybVZ	# narvi4
