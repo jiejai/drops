@@ -1,3 +1,4 @@
+tz1gBXG9fg8RMDH69KfKqwoTH5sFDmzt5yzm
 tz1iMC6VMDw5mCAypgmbgbxp6dJDYRxrargq  # alphacentaurikid
 tz1QrXB3DLk3JAigtbcBJE8dmiifVXwiDti4
 tz1VxK2AKMJhZWNZ29xcCpC5YnmarTrZAquA
